@@ -1,0 +1,3 @@
+1   Miron Babalunga     9.22    8.34    9.57
+2   Maria   Munteanu    8.37    9.67    7.88
+3   Marcel  Ipsilanti   9.89    9.31    8.66
